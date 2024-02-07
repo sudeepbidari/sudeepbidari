@@ -1,4 +1,6 @@
 ### Hi there 👋
+## I'm Sudeep, IT Student and a Web Developer 
+
 
 <!--
 **sudeepbidari/sudeepbidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
