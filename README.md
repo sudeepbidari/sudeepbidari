@@ -1,6 +1,19 @@
-### Hi there 👋
-#### I'm Sudeep, IT Student and a Web Developer 
 
+### Hi there 👋
+#### I'm Sudeep, IT Student and Web Developer
+
+I'm currently working on building my career as a Web Developer while studying Masters of IT at CQUniversity, Syney.
+
+My Skills:
+- PHP/JS
+- HTML/CSS
+- MySQL
+- AobeXD
+- Git
+
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,mysql,xd,git)](https://skillicons.dev)
+
+Thank you for stopping by!
 
 <!--
 **sudeepbidari/sudeepbidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
