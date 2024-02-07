@@ -13,6 +13,8 @@ My Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,mysql,xd,git)](https://skillicons.dev)
 
+Amazing projects coming soon.
+
 Thank you for stopping by!
 
 <!--
