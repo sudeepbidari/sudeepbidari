@@ -5,13 +5,13 @@
 I'm currently working on building my career as a Web Developer while studying Masters of IT at CQUniversity, Syney.
 
 My Skills:
-- PHP/JS
-- HTML/CSS
-- MySQL
-- AobeXD
-- Git
+- [![My Skills](https://skillicons.dev/icons?i=php,js)](https://skillicons.dev)PHP/JS
+- [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)HTML/CSS
+- [![My Skills](https://skillicons.dev/icons?i=react,express)](https://skillicons.dev)React/Express
+- [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)MySQL
+- [![My Skills](https://skillicons.dev/icons?i=xd)](https://skillicons.dev)AobeXD
+- [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)Git
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,mysql,xd,git)](https://skillicons.dev)
 
 Amazing projects coming soon.
 
