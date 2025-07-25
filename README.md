@@ -1,33 +1,41 @@
+# 👋 Hi there, I'm Sudeep Bidari
 
-### Hi there 👋
-#### I'm Sudeep, IT Student and Web Developer
+🎓 Master’s in Information Technology | 💻 Web Developer | 🌏 Based in Australia
 
-I'm currently working on building my career as a Web Developer while studying Masters of IT at CQUniversity, Syney.
+---
 
-My Skills:
-- [![My Skills](https://skillicons.dev/icons?i=php,js)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=react,express)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=xd)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+### 🚀 About Me
 
+I’m a passionate web developer with over 5 years of experience building full-stack applications. I started my career in Nepal as a PHP (CodeIgniter) developer and have recently upskilled in modern web technologies like **React**, **Node.js**, and **Tailwind CSS**.
 
-View my recent demo React portfolio here: https://react-portfolio-five-gules-49.vercel.app/
+My experience spans:
 
-Thank you for stopping by!
+- 🌐 Frontend: HTML, CSS, JavaScript, jQuery, React, Bootstrap, Tailwind
+- ⚙️ Backend: PHP (CodeIgniter), MySQL
+- 🧠 Other Tools: Git, GitHub, Netlify, Vercel, CPanel, MySQL Workbench, Tableau, NetBeans
+- 🧰 Currently learning: Node.js, Express, REST APIs, Firebase, Supabase
 
-<!--
-**sudeepbidari/sudeepbidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧩 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📌 Building real-world portfolio projects using **React + Tailwind**
+- 📌 Designing and deploying a personal **developer portfolio website**
+- 📌 Actively seeking a **entry-level web developer** role in Australia
+- 📌 Sharing my learning journey and contributions
+
+---
+
+### 🛠️ Featured Project
+| 🧑‍💼 **Portfolio Website** | Personal website to showcase my work and skills | Next.js, Tailwind CSS | [Visit Site](https://react-portfolio-five-gules-49.vercel.app/projects) |
+
+---
+
+### 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/sudeepbidari)  
+- ✉️ sudeepbidari1@gmail.com  
+
+---
+
+_Thanks for visiting my GitHub! Let’s build something awesome together._ 💻✨
