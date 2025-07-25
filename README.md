@@ -5,15 +5,15 @@
 I'm currently working on building my career as a Web Developer while studying Masters of IT at CQUniversity, Syney.
 
 My Skills:
-- [![My Skills](https://skillicons.dev/icons?i=php,js)](https://skillicons.dev)PHP/JS
-- [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)HTML/CSS
-- [![My Skills](https://skillicons.dev/icons?i=react,express)](https://skillicons.dev)React/Express
-- [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)MySQL
-- [![My Skills](https://skillicons.dev/icons?i=xd)](https://skillicons.dev)AobeXD
-- [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)Git
+- [![My Skills](https://skillicons.dev/icons?i=php,js)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=react,express)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=xd)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 
-Amazing projects coming soon.
+View my recent React portfolio here: https://react-portfolio-five-gules-49.vercel.app/
 
 Thank you for stopping by!
 
