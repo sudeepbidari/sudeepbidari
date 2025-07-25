@@ -13,7 +13,7 @@ My Skills:
 - [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 
-View my recent React portfolio here: https://react-portfolio-five-gules-49.vercel.app/
+View my recent demo React portfolio here: https://react-portfolio-five-gules-49.vercel.app/
 
 Thank you for stopping by!
 
