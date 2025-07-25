@@ -27,7 +27,7 @@ My experience spans:
 ---
 
 ### 🛠️ Featured Project
-| 🧑‍💼 **Portfolio Website** | Personal website to showcase my work and skills | Next.js, Tailwind CSS | [Visit Site](https://react-portfolio-five-gules-49.vercel.app/projects) |
+| 🧑‍💼 **Portfolio Website** | Personal website to showcase my work and skills | Next.js, Tailwind CSS | [Visit Site](https://react-portfolio-git-main-sudeep-bidaris-projects.vercel.app) |
 
 ---
 
